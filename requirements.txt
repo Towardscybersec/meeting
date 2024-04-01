@@ -1,0 +1,9 @@
+streamlit
+audio-recorder-streamlit
+openai==0.28
+python-dotenv
+numpy
+whisper
+scikit-learn
+librosa
+
