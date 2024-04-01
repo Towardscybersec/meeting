@@ -8,7 +8,7 @@ import io
 import os
 
 # Assuming the OpenAI API key is set as an environment variable for security reasons
-openai.api_key = "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"
+openai.api_key = "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"
 
 if 'authenticated' not in st.session_state:
     st.session_state['authenticated'] = False
